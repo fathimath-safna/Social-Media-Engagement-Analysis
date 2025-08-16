@@ -35,7 +35,9 @@ The **Tableau dashboard** includes:
 - Filters for platform, gender, post type, and region  
 - Monthly & weekly engagement trends  
 - Demographic breakdown by age, gender, and location  
-- Sentiment-based engagement analysis  
+- Sentiment-based engagement analysis
+ <img width="1834" height="1057" alt="Screenshot 2025-07-31 165324" src="https://github.com/user-attachments/assets/a8b058d5-47da-48c2-86b3-d9c3abc0122f" />
+  
 
 ---
 
