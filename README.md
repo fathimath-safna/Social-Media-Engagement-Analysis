@@ -11,14 +11,13 @@ It identifies patterns based on platform, post type, timing, audience demographi
 ---
 
 ## **Key Insights**
--  **Instagram** outperforms Facebook in engagement rate.  
--  **Image and video posts** drive the highest interactions.  
--  **Afternoon posts** receive the most engagement.  
--  **25–34 age group** engages the most, followed by 18–24.  
--  **Positive sentiment** posts get more likes and comments.  
--  North America and Europe show higher audience activity.  
--  **Mondays and Sundays** see slightly higher engagement rates.  
--  Likes dominate as the most common interaction, followed by comments and shares.  
+- Instagram and Facebook were the most used platforms, but Instagram had slightly better engagement.  
+- Images and videos got the most likes and comments.  
+- Posts shared in the afternoon and on weekdays (especially Mondays) performed best.  
+- The age group **25–34** was the most active, followed by **18–24**.  
+- Positive posts did better than neutral or negative ones.  
+- USA, India, and Brazil had the most audience activity.  
+- Likes were the most common interaction, much higher than comments and shares.  
 
 ---
 
