@@ -31,11 +31,11 @@ It identifies patterns based on platform, post type, timing, audience demographi
 
 ## **Dashboard**
 The **Tableau dashboard** includes:
-- KPI cards for likes, comments, shares, and average engagement rate  
-- Filters for platform, gender, post type, and region  
-- Monthly & weekly engagement trends  
-- Demographic breakdown by age, gender, and location  
-- Sentiment-based engagement analysis
+- **KPI cards** showing total likes, comments, shares, and the average engagement rate  
+- **Filters** to explore data by platform, gender, post type, and region  
+- **Trends** for monthly and weekly engagement activity  
+- **Audience breakdown** by age, gender, and location  
+- **Sentiment analysis** to see how positive, neutral, or negative posts perform  
  <img width="1834" height="1057" alt="Screenshot 2025-07-31 165324" src="https://github.com/user-attachments/assets/a8b058d5-47da-48c2-86b3-d9c3abc0122f" />
   
 
